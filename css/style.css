@@ -1,0 +1,54 @@
+body{
+  background:url("https://kbdevstorage1.blob.core.windows.net/asset-blobs/19889_en_1");
+  background-display:cover;
+  font-family:Lobster;
+}
+.block{
+  background-color:black;
+  color:white;
+  opacity:0.7;
+  width:40%;
+  padding:10px;
+  margin:20px;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+  border-color:red;
+  border-style:solid;
+}
+.bBlock{
+  background-color:black;
+  color:white;
+  opacity:0.7;
+  width:40%;
+  padding:10px;
+  margin:20px;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+  border-color:cyan;
+  border-style:solid;
+}
+h1{
+  font-size: 45px;
+}
+#quote{
+  font-size:35px;
+  color:white;
+}
+#author{
+  font-size:25px;
+}
+.qBlock{
+  background-color:black;
+  color:white;
+  opacity:0.7;
+  width:40%;
+  padding:10px;
+  margin:20px;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+  border-color:yellow;
+  border-style:solid;
+}
